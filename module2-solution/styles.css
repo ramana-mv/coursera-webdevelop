@@ -30,19 +30,9 @@ div{
 	margin-bottom:20px;
 	padding:0px 0px 10px 10px;
 	width:80%;
+	color:red;
+	font-size:20px;
 	float:left;
-}
-#p1{
-	color:white;
-	font-size:20px;
-}
-#p2{
-	color:white;
-	font-size:20px;
-}
-#p3{
-	color:white;
-	font-size:20px;
 }
 @media (min-width:992px){
 	#p1{
