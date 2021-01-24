@@ -72,9 +72,11 @@ div{
 		width:80%;
 	}
 	#p2{
+		clear:left;
 		width:80%;
 	}
 	#p3{
+		clear:left;
 		width:80%;
 	}
 }
