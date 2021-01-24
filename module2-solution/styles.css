@@ -68,15 +68,15 @@ div{
 	}
 }
 @media (max-width:767px){
+	div{
+		float:none;
+	}
 	#p1{
-		width:80%;
 	}
 	#p2{
-		clear:left;
 		width:80%;
 	}
 	#p3{
-		clear:left;
 		width:80%;
 	}
 }
