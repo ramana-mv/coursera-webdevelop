@@ -68,10 +68,8 @@ div{
 	}
 }
 @media (max-width:767px){
-	div{
-		float:none;
-	}
 	#p1{
+		width:80%;
 	}
 	#p2{
 		width:80%;
