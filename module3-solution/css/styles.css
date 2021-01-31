@@ -76,12 +76,7 @@ h4{
 	#p1{
 		width:80%;
 	}
-	.sr-only{
-		color:white;
-		text:"-";
-	}
 	#collapsable-nav a {
-		color:white;
     		font-size: 1.2em;
   	}
 }
