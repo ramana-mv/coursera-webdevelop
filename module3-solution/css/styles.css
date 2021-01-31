@@ -76,7 +76,8 @@ h4{
 	#p1{
 		width:80%;
 	}
-	#collapsable-nav a {
+	#collapsable-nav {
+		text-align:center;
     		font-size: 1.2em;
   	}
 }
